@@ -1,8 +1,8 @@
 
 code[class*="language-"],
 pre[class*="language-"] {
-    color           : #f8f8f2;
-    background      : none;
+    color           : #e0e0d0;
+    background      : black;
     text-shadow     : 0 1px rgba(0, 0, 0, 0.3);
     font-family     : var(--font-mono);
     font-size       : calc(var(--text-size) * 0.9444);
